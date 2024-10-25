@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RaspisanieElektrichekPO.Controller.ConnectionString" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Controller\ConnectionString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.DenNedeli" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAAAAABAAAAAIQIAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controller\DenNedeli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Elektrichka" Collapsed="true">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAABAAAAAAAAABAAAAAAQAAAIAAEAAAAAAAAA=</HashCode>
+      <FileName>Controller\Elektrichka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Marshryt" Collapsed="true">
+    <Position X="3" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQIAAAAAAAAAAAAABAACAAAQAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Marshryt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Napravlenie" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAAAAABQAAAAIQAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Napravlenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Ostanovki" Collapsed="true">
+    <Position X="3" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAJAAAAAAAAAEAAABAAAAAAQAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Ostanovki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Otpravlenie" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIIAAAAAAAAAAAABAAEgAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Otpravlenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Rasstoyanie" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAgAQAUAAAABAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Rasstoyanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Controller.Reis" Collapsed="true">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAAAAABAAAAAAYAAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Controller\Reis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Form1" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAEABAAAACQAAACAEAYAAAAFGQIAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Program" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Carrizaciya" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAABAAIE=</HashCode>
+      <FileName>Forms\Authorization.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="HomeUser" />
+      <Property Name="HomeGost" />
+      <Property Name="HAdmin" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.DenNedeli" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgABEAAACAAAACAEg4AAAAEHAIIAAAAAA=</HashCode>
+      <FileName>Forms\DenNedeli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Elektrichka" Collapsed="true">
+    <Position X="4.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAABCAEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Elektrichka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.HAdmin" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAMw7AAAAwHAPAAAAQAA=</HashCode>
+      <FileName>Forms\HAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.HomeGost" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAgAAAAAQBAAAAAAQAA=</HashCode>
+      <FileName>Forms\HomeGost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.HomeUser" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAACAAABAAAACAAAACAMwzAAAAwHAPAAAAQAA=</HashCode>
+      <FileName>Forms\HomeUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Marshryt" Collapsed="true">
+    <Position X="4.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAABCIEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Marshryt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Napravlenie" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAABCAEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Napravlenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Ostanovki" Collapsed="true">
+    <Position X="4.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCBgABEAAACAACACAEg4AAAAUHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Ostanovki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Otpravlenie" Collapsed="true">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABEAAACAAABCIEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Otpravlenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Rasstoyanie" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAABCAEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Rasstoyanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaspisanieElektrichekPO.Forms.Reis" Collapsed="true">
+    <Position X="4.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAABCAEg4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Forms\Reis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
